@@ -3,18 +3,18 @@
 <a href="https://youtube.com/c/TrickyAbhi"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
 
-<h1 align="center"><b>TrickyAbhi-Bot</b></h1>
+<h1 align="center"><b>Agora Bot</b></h1>
 
 # <p align="center"><a href="https://github.com/herox-xd/TrickyAbhi-Bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=herox-xd&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
 <p align="center">
     
     
-# TrickyAbhi-Bot
+# Agora Robot
 OMFO Gimme a star and follow me
     
     
 ### Noob Developers 
-  <a href="https://t.me/ABHIISH3K_xD"><img src="https://img.shields.io/badge/Piro%20 Abhishek-Green.svg?style=for-the-badge&logo=Python"></a>
+  <a href="https://t.me/THE_CRIMINALS_GOD"><img src="https://img.shields.io/badge/%MR%20 Agora-Green.svg?style=for-the-badge&logo=Python"></a>
     
     
     
