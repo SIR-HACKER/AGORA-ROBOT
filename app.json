@@ -1,6 +1,6 @@
 {
-    "name": "TrickyAbhi-Bot",
-    "description": "Telegram group management bot.",
+    "name": "AGORA ROBOT",
+    "description": "Telegram group management bot made by @Mr_Agora.",
     "keywords": [
        "telegram",
        "anime",
@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/SJMxADITI/TrickyAbhi-Bot",
+ "repository": "https://github.com/SIR-HACKER/AGORA-ROBOT",
  "addons": [
     {
        "options": {
@@ -49,22 +49,22 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": "5124507794"
+       "value": "5272015055"
     },
 
     "BOT_NAME": {
        "description": "Insert below your bot, it will appear everywhere",
        "required": true,
-       "value": ""
+       "value": "PURPLE ARMY"
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "ABHIISH3K_xD"
+       "value": "MR_AGORA"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
        "required": true,
-       "value": "Techno_Trickop"
+       "value": "PURPLE_SOULS"
     },      
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
@@ -74,17 +74,17 @@
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
        "required": false,
-       "value": "5124507794 5198403647"
+       "value": "5272015055"
     },
     "INSPECTOR": {
        "description": "A space separated list of user IDs who you want to assign as inspector users.",
        "required": false,
-       "value": "5124507794 5198403647"
+       "value": "5272015055"
     },
     "REQUESTER": {
        "description": "A space separated list of user IDs who you wanna assign as requester(gban perms only).",
        "required": false,
-       "value": "5124507794 5198403647"
+       "value": "5272015055"
     },
     "ENV": {
        "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
