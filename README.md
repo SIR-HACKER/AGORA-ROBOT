@@ -14,7 +14,7 @@ OMFO Gimme a star and follow me
     
     
 ### Noob Developers 
-  <a href="https://t.me/THE_CRIMINALS_GOD"><img src="https://img.shields.io/badge/%MR%20 Agora-Green.svg?style=for-the-badge&logo=Python"></a>
+  <a href="https://t.me/THE_CRIMINALS_GOD"><img src="https://img.shields.io/badge/%Mr%20Agora-Green.svg?style=for-the-badge&logo=Python"></a>
     
     
     
